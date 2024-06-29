@@ -1,9 +1,9 @@
 .navbar {
-  padding: 20px 0px;
+  padding: 12px 0px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid rgb(248, 68, 3);
 }
 
 .navbar .logo {
@@ -47,7 +47,7 @@
 .navbar button:hover {
   background: rgba(220, 80, 29, 0.811);
 }
-
+  
 .navbar-search-icon {
   position: relative;
 }
